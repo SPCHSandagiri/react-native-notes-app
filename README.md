@@ -15,9 +15,9 @@ This app allows users to create, edit, delete, and store notes locally on their 
 
 <p float="left">
   <img src="screenshots/home.jpeg" width="220" />
-  <img src="screenshots/add.jpeg" width="220" />
-  <img src="screenshots/edit.jpeg" width="220" />
-  <img src="screenshots/delete.jpeg" width="220" />
+  <img src="screenshots/AddNote.jpeg" width="220" />
+  <img src="screenshots/Edit.jpeg" width="220" />
+  <img src="screenshots/Delete.jpeg" width="220" />
 </p>
 
 ## 🛠 Tech Stack
