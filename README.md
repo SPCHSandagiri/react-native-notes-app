@@ -11,6 +11,13 @@ This app allows users to create, edit, delete, and store notes locally on their 
 - Works offline
 - Clean and simple UI
 
+## 📸 Screenshots
+
+![Home Screen](screenshots/home.png)
+![Add Note](screenshots/AddNote.png)
+![Edit Note](screenshots/Edit.png)
+![Edit Note](screenshots/Delete.png)
+
 ## 🛠 Tech Stack
 - React Native
 - Expo
